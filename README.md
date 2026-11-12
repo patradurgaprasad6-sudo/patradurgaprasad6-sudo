@@ -26,3 +26,17 @@
 <img src="https://streak-stats.demolab.com?user=patradurgaprasad6-sudo&theme=tokyonight" />
 
 </div>
+<div align="center">
+
+<h2>⚡ My Tech Stack</h2>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,arduino,git,github,vscode" />
+
+</div
+  <div align="center">
+
+<h2>👀 Profile Visitors</h2>
+
+<img src="https://komarev.com/ghpvc/?username=patradurgaprasad6-sudo&color=blueviolet&style=for-the-badge" />
+
+</div>
