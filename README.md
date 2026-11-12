@@ -19,3 +19,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=patradurgaprasad6-sudo&show_icons=true&theme=tokyonight" />
 
 </div>
+<div align="center">
+
+<h2>🔥 My GitHub Streak</h2>
+
+<img src="https://streak-stats.demolab.com?user=patradurgaprasad6-sudo&theme=tokyonight" />
+
+</div>
