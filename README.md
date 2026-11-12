@@ -164,3 +164,13 @@ alt="3D GitHub Contribution Graph">
      alt="Pac-Man Contribution Animation">
 
 </div>
+<div align="center">
+
+<h2>🌐 EXPLORE MY DIGITAL WORLD</h2>
+
+<a href="https://patradurgaprasad6-sudo.github.io/">
+  <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-8A2BE2?style=for-the-badge"
+       alt="Visit My Portfolio">
+</a>
+
+</div>
