@@ -93,3 +93,10 @@ Building responsive websites and interactive web applications.
 **Thanks for visiting my GitHub profile! 🚀**
 
 </div>
+<div align="center">
+
+<h2>🏆 MY GITHUB TROPHIES 🏆</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=patradurgaprasad6-sudo&theme=discord&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
