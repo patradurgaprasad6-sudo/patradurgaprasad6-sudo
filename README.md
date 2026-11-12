@@ -150,3 +150,7 @@ alt="3D GitHub Contribution Graph">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:4B0082&height=120&section=footer" width="100%" alt="Animated-style wave footer"/>
 
 </div>
+## ⚡ MY LATEST GITHUB ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
