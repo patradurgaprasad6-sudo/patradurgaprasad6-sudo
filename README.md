@@ -155,3 +155,12 @@ alt="3D GitHub Contribution Graph">
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/patradurgaprasad6-sudo/ENERGYINTEL-AI/issues/1) in [patradurgaprasad6-sudo/ENERGYINTEL-AI](https://github.com/patradurgaprasad6-sudo/ENERGYINTEL-AI)
 <!--END_SECTION:activity-->
+<div align="center">
+
+<h2>🎮 PAC-MAN CONTRIBUTION GRAPH</h2>
+
+<img src="https://raw.githubusercontent.com/patradurgaprasad6-sudo/patradurgaprasad6-sudo/pacman-output/pacman-contribution-graph-dark.svg"
+     width="100%"
+     alt="Pac-Man Contribution Animation">
+
+</div>
