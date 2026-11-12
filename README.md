@@ -109,3 +109,44 @@ width="100%"
 alt="3D GitHub Contribution Graph">
 
 </div>
+<div align="center">
+
+<h2>💻 DEVELOPER MODE: ON ⚡</h2>
+
+<img
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  width="450"
+  alt="Animated developer coding"
+/>
+
+<h3>⚡ Eat • Sleep • Code • Repeat ⚡</h3>
+
+</div>
+<div align="center">
+
+<h2>🚀 MY FEATURED PROJECTS</h2>
+
+<a href="https://github.com/patradurgaprasad6-sudo?tab=repositories">
+  <img src="https://img.shields.io/badge/💧_AquaNexa-Smart_Water_Purification-00D9FF?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/patradurgaprasad6-sudo?tab=repositories">
+  <img src="https://img.shields.io/badge/🤖_Robotics-IoT_&_Automation-8A2BE2?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/patradurgaprasad6-sudo?tab=repositories">
+  <img src="https://img.shields.io/badge/🌐_Web_Development-HTML_CSS_JS-007BFF?style=for-the-badge" />
+</a>
+
+</div>
+<div align="center">
+
+<h2>⚡ CODE • CREATE • INNOVATE ⚡</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:4B0082&height=120&section=footer" width="100%" alt="Animated-style wave footer"/>
+
+</div>
