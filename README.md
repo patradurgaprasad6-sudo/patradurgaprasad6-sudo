@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/patradurgaprasad6-sudo/patradurgaprasad6-sudo/main/cyberpunk-banner.png"
+width="100%"
+alt="Cyberpunk GitHub Banner">
+
+</div>
+<div align="center">
+
 # ⚡ WELCOME TO MY DIGITAL UNIVERSE ⚡
 
 ### 👨‍💻 Developer | 🤖 IoT Enthusiast | 🚀 Tech Innovator
