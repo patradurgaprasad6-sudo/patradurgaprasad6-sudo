@@ -100,3 +100,12 @@ Building responsive websites and interactive web applications.
 <img src="https://github-profile-trophy.vercel.app/?username=patradurgaprasad6-sudo&theme=discord&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
+<div align="center">
+
+<h2>🌌 MY 3D CONTRIBUTION GRAPH</h2>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"
+width="100%"
+alt="3D GitHub Contribution Graph">
+
+</div>
