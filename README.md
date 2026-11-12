@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**patradurgaprasad6-sudo/patradurgaprasad6-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>🚀 Welcome to My GitHub Universe</h1>
 
-Here are some ideas to get you started:
+<h3>💻 Developer | 🤖 IoT | ⚡ Robotics</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub;IoT+and+Robotics+Enthusiast;Building+Innovative+Projects" />
+
+<br><br>
+
+<h2>🐍 My Contribution Snake</h2>
+
+<img src="https://raw.githubusercontent.com/patradurgaprasad6-sudo/Entity-6300/output/github-contribution-grid-snake-dark.svg" />
+
+<br><br>
+
+<h2>📊 GitHub Statistics</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=patradurgaprasad6-sudo&show_icons=true&theme=tokyonight" />
+
+</div>
